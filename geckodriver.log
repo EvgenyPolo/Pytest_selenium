@@ -1,0 +1,82 @@
+1651766771365	geckodriver	INFO	Listening on 127.0.0.1:64712
+1651766774455	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileUXLz7w"
+1651766774746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofileUXLz7w\\search.json.mozlz4", (void 0)))
+1651766777728	Marionette	INFO	Listening on port 64730
+Read port: 64730
+1651766777949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651766789975	Marionette	INFO	Stopped listening on port 64730
+1651766865234	geckodriver	INFO	Listening on 127.0.0.1:64785
+1651766868313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileaWb5Eh"
+1651766868595	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofileaWb5Eh\\search.json.mozlz4", (void 0)))
+1651766871786	Marionette	INFO	Listening on port 64803
+Read port: 64803
+1651766871852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651766883414	Marionette	INFO	Stopped listening on port 64803
+1651767415029	geckodriver	INFO	Listening on 127.0.0.1:64984
+1651767418142	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileehQP6t"
+1651767418415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofileehQP6t\\search.json.mozlz4", (void 0)))
+1651767421588	Marionette	INFO	Listening on port 65003
+Read port: 65003
+1651767421848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651767433873	Marionette	INFO	Stopped listening on port 65003
+1651767527465	geckodriver	INFO	Listening on 127.0.0.1:65054
+1651767530552	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileLIU8pN"
+1651767530824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofileLIU8pN\\search.json.mozlz4", (void 0)))
+1651767533949	Marionette	INFO	Listening on port 65073
+Read port: 65073
+1651767534098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651767545624	Marionette	INFO	Stopped listening on port 65073
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1651768092117	geckodriver	INFO	Listening on 127.0.0.1:65287
+1651768095188	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofile9htJBI"
+1651768095462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofile9htJBI\\search.json.mozlz4", (void 0)))
+1651768098605	Marionette	INFO	Listening on port 65305
+Read port: 65305
+1651768098793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651768109880	Marionette	INFO	Stopped listening on port 65305
+[Parent 8532, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1651768269115	geckodriver	INFO	Listening on 127.0.0.1:65415
+1651768272208	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofile0gP79R"
+1651768272480	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofile0gP79R\\search.json.mozlz4", (void 0)))
+1651768275548	Marionette	INFO	Listening on port 65434
+Read port: 65434
+1651768275796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651768287650	Marionette	INFO	Stopped listening on port 65434
+[Parent 12480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:725
+1651768354097	geckodriver	INFO	Listening on 127.0.0.1:65524
+1651768357181	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "D:\\Temp\\rust_mozprofileDV46fA"
+1651768357455	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at D:\\Temp\\rust_mozprofileDV46fA\\search.json.mozlz4", (void 0)))
+1651768360502	Marionette	INFO	Listening on port 49159
+Read port: 49159
+1651768360761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://petfriends1.herokuapp.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651768372206	Marionette	INFO	Stopped listening on port 49159
